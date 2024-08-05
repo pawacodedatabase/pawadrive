@@ -941,6 +941,7 @@ ul.conat_info li a:hover {
 
 .send_btn:hover {
      background: #202121;
+     color: white;
      transition: ease-in all 0.5s;
 }
 
