@@ -981,7 +981,8 @@ ul.location_icon {
 }
 
 ul.location_icon li {
-     font-size: 21px;
+     font-size: 15px;
+     font-weight: 500;
      line-height: 30px;
      color: #353535;
      text-align: left;
@@ -992,7 +993,8 @@ ul.location_icon li {
 }
 
 ul.location_icon li a {
-     font-size: 40px;
+     font-size: 15px;
+     font-weight: 900;
      color: #fed806;
      line-height: 40px;
      padding-right: 16px;
